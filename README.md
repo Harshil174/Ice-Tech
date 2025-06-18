@@ -17,7 +17,7 @@ Design Credit Goes To - [Oxeni](https://dribbble.com/Oxeni)
 ## 🛠 Installation
 
 ```bash
-git clone [your repo]
+git clone https://github.com/Harshil174/Ice-Tech.git
 cd ice-tech
 npm install
 npm run dev
