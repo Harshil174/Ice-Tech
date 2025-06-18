@@ -12,7 +12,7 @@ const MapImages = () => {
           type: "tween",
           duration: 0.5,
         }}
-        src="/src/assets/map_1.png"
+        src="/assets/map_1.png"
         alt="Map 1"
       />
       <motion.img
@@ -23,7 +23,7 @@ const MapImages = () => {
           type: "tween",
           duration: 0.5,
         }}
-        src="/src/assets/map_2.png"
+        src="/assets/map_2.png"
         alt="Map 2"
       />
     </div>
